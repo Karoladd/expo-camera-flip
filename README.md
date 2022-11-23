@@ -20,9 +20,9 @@
 
 ## Screen
 <p align="center">
-    <img alt="permission" src=".github/camera-back.jpg" width="100%">
-    <img alt="camera" src=".github/camera-front.jpg" width="100%">
-    <img alt="camera" src=".github/permission.jpg" width="100%">
+    <img alt="permission" src=".github/camera-back.jpg" width="20%">
+    <img alt="camera" src=".github/camera-front.jpg" width="20%">
+    <img alt="camera" src=".github/permission.jpg" width="20%">
 </p>
 
 ## 🚀 Technologies
